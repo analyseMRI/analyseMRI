@@ -1,7 +1,7 @@
 # analyseMRI
-analyseMRI is free and easy to use MRI T1-weighted and FLAIR scan analysis software for analyzing the Hippocampus, Amygdala and Cerebral Cortex for their volume (in cubic mm) and voxel intensity parameters. The software yields both absolute values and relative (to the Cerebral White Matter) values for these parameters.
+analyseMRI is free and easy to use MRI T1-weighted and FLAIR scan analysis software for analyzing the Hippocampus, Amygdala and Cerebral Cortex for their volume (in cubic millimeter, based on T1-weighted scan) and voxel intensity (based on FLAIR scan) parameters. The software yields both absolute values and relative (to the Cerebral White Matter) values for these parameters.
 
-This software provides results of the comparison of the analyzed scan to an established healthy control baseline, as well as quick-view volumetric results and a one-sided hyperintensity check for the hippocampus and amygdala.
+This software uses both a T1-weighted and a FLAIR scan as input, providing results of the comparison of the analyzed scan to an established healthy control baseline, as well as quick-view volumetric results and a one-sided hyperintensity check for the hippocampus and amygdala.
 
 The main intended usage for this software is to aid neurological health professionals in objectively diagnosing and researching Hippocampus, Amygdala and Cerebral Cortex related deficits and illnesses.
 

@@ -8,5 +8,5 @@ The main intended usage for this software is to aid neurological health professi
 This software can now be used for any isotropic voxel resolution T1-weighted scans.
 Before installing (analyseMRI_installer.exe) please read the user manual, this will clarify the required preprocessing for the usable input data type (.nii).
 
-Please cite the developer (F.I. Kandi) and software when publishing or writing, having used this software for said publishing or writing. 
-For questions, feedback and ideas for improvement please email the developer at analysemri@gmail.com
+Please cite the developer (F.I. Kandi) and software when publishing or writing, having used this software for publishing or writing. 
+For questions, feedback and ideas for improvement please email the developer at f.i.kandi@tue.nl
